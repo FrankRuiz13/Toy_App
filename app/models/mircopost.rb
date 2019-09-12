@@ -1,0 +1,2 @@
+class Mircopost < ApplicationRecord
+end
